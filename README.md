@@ -32,3 +32,9 @@ Mac using bash
 > This will result in a new output file being generated:
 > ```cleaned_dataset.csv```  
 7. You can now move to ```prediction.ipynb``` and click "Run all"  
+
+### Add User Input  
+1. The last 2 cells in ```prediction.ipynb``` contain the functionality to add a custom day.  
+2. Enter a date and Weather condition in the fields provided.  
+3. Run that current cell to create the test dataframe.
+4. Run the next cell to get the prediction output.  
